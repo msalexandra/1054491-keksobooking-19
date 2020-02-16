@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
 * Студент: [Александра Кузнецова](https://up.htmlacademy.ru/javascript/19/user/1054491).
-* Наставник: `Илья Милошевич`.
+* Наставник: [Александр Малинов](https://htmlacademy.ru/profile/id40204).
 
 ---
 
